@@ -6,9 +6,9 @@ hi! i welcome people taking inspo from my layout, but please dont steal from it 
  hi coding by @mixupmadness btw
  </!-->
 <p align="center"> 
-<img src="https://github.com/mixupmadness/thing-for-youke/blob/2ea70d388a66d5067e2ecbbe945be1f043b77476/image-132e-gradientmap.pro.png"/>
+<img src="https://github.com/y0ukee/y0ukee/blob/6fed156de93832395ca0454e0075908dc71f0f36/image-132e-gradientmap.pro.png"/>
  <p align="center">
- <img src="https://github.com/mixupmadness/thing-for-youke/blob/2ea70d388a66d5067e2ecbbe945be1f043b77476/image-324c-gradientmap.pro.png"width="400"/>
+ <img src="https://github.com/y0ukee/y0ukee/blob/6fed156de93832395ca0454e0075908dc71f0f36/image-324c-gradientmap.pro.png"width="400"/>
 <p align="center">
   ${\textsf{\color{#f23b35}੭﹕﹒}}$
  ${\textsf{\color{#ffdb9a}youke ,,}}$
@@ -30,6 +30,6 @@ ${\textsf{\color{#f23b35}──── ୨୧ ────}}$
  <p align="center"> 
 https://youkess.straw.page
  <p align="center"> 
-  <img src="https://github.com/mixupmadness/thing-for-youke/blob/2ea70d388a66d5067e2ecbbe945be1f043b77476/image-cb44-gradientmap.pro.png"/>
+  <img src="https://github.com/y0ukee/y0ukee/blob/6fed156de93832395ca0454e0075908dc71f0f36/image-cb44-gradientmap.pro.png"/>
   <p align="center"> 
   ${\textsf{\color{#f23b35} best viewed on PC !}}$
